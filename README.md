@@ -1,7 +1,3 @@
-[//]: # @param group $$ React Native
-[//]: # @param title $$ Deprecado WebView a Custom Tabs - Final
-[//]: # @param author $$ Iván D. Sánchez
-
 # Implementación Custom tabs y Safari View Controller en React Native
 
 ## Expo Go
@@ -411,4 +407,3 @@ export default App;
 
 
 ```
-# webview_deprecated
